@@ -1,0 +1,45 @@
+.name{
+    color: blueviolet;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    margin: center;
+}
+
+.name2{
+    color: red;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: center;
+}
+
+ul{
+    color: seagreen;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: center;
+}
+
+
+#li{
+    color: rgb(43, 55, 226);
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin: center;
+}
+
+h1{
+    border: 10px;
+    background-color:brown;
+    padding: 10px;
+    font-variant-caps: all-petite-caps;
+    border-radius: 20px;
+    font-weight: bolder;
+    font-size: 50px;
+    font-style: oblique;
+    margin-bottom: center;
+    height: fit-content
+    }
